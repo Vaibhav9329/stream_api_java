@@ -3,7 +3,7 @@
 
 java stream -> basically it represent a pipeline through which date will flow and streams will performs various operations on the data in order to transform the data into some other formate.
 
-Stream Intermediate Operations :  This operations doesn't return any result
+Stream Intermediate Operations :  This operations doesn't return any result. 
     Filter
     Map
     FlatMap
